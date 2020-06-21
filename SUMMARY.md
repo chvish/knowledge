@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Programming Languages](languages/languages.md)
+* [Operating Systems](os/os.md)
 
