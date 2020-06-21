@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Programming Languages](languages/languages.md)
-* [Operating Systems](os/os.md)
-* [*Nix tools](tools/tools.md)
-    * [strace](tools/strace.md)
+* [Introduction](README.md)
+* [Programming Languages](programming-languages.md)
+* [Operating Systems](os.md)
+* [\*Nix tools](tools/README.md)
+  * [strace](tools/strace.md)
 
