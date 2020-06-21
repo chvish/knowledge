@@ -1,2 +1,2 @@
 # Topics
-* [Debugging](os/debugging.md)
+* [Debugging](debugging/debugging.md)
