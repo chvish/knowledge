@@ -1,2 +1,0 @@
-# Debugging
-* [Strace](strace.md)

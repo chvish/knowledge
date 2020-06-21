@@ -1,2 +1,2 @@
 # Topics
-* [Debugging](debugging/debugging.md)
+* [*Nix tools](tools/tools.md)
