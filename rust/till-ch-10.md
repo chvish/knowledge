@@ -1,5 +1,9 @@
 # Traits
 - Practice idea: implement a tiny prometheus library interface. Metric family as a trait, define the function each type should export etc.
+- Metamorphization
+  - why returning multiple types does not work
+  - dynamically linked libraries
+
 - Implement trait for trait. The discussion turns to train object but for understanding the syntax, [this](https://stackoverflow.com/questions/29256519/i-implemented-a-trait-for-another-trait-but-cannot-call-methods-from-both-traits?noredirect=1&lq=1) question
 
 # Lifetimes
